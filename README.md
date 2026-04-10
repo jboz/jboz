@@ -2,7 +2,7 @@
 
 # Passionate Developer, Archlinux Enthusiast
 
-_Let's turn ideas into innovative digital solutions with clean and efficient code._
+_Let's turn ideas into innovative solutions with clean and efficient code._
 
 https://jboz.github.io
 
